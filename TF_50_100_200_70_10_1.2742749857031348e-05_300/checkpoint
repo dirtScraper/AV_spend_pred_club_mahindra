@@ -1,0 +1,6 @@
+model_checkpoint_path: "pred.ckpt-300"
+all_model_checkpoint_paths: "pred.ckpt-296"
+all_model_checkpoint_paths: "pred.ckpt-297"
+all_model_checkpoint_paths: "pred.ckpt-298"
+all_model_checkpoint_paths: "pred.ckpt-299"
+all_model_checkpoint_paths: "pred.ckpt-300"
